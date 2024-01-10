@@ -1,0 +1,13 @@
+.body-specs {
+    font-size: 16px;
+    font-family: 'Helvetica Neue';
+    line-height: 150%;
+}
+
+.image-specs {
+    max-height: 400px;
+}
+
+.color-change {
+    color: red;
+}
